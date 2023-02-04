@@ -1,7 +1,14 @@
 # Pose_recognition
 **Detect anh recognize pose**
 
-- Nhận diện hành động: ['Standing','Stand up', 'Sitting','Sit down','Lying Down','Walking','Fall Down']
+- Nhận diện hành động: 
++ Standing
++ Stand up
++ Sitting
++ Sit down
++ Lying Down
++ Walking
++ Fall Down
 - Nếu ngã (Fall Down) thì phát chuông cảnh báo
 
 **Data:**
@@ -27,3 +34,5 @@ python train.py
 ```
 python main.py
 ```
+
+
