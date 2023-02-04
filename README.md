@@ -13,7 +13,7 @@ https://www.kaggle.com/datasets/ngoduy/dataset-video-for-human-action-recognitio
 
 .data/create_dataset_3.py : Giữ lại những điểm quan trọng main_parts và lưu vào file pickle để train
 
-**Install: **
+**Install:**
 ```
 pip install -r requirements.txt
 ```
