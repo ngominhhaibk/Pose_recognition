@@ -9,6 +9,7 @@
 + Lying Down
 + Walking
 + Fall Down
+
 Nếu ngã (Fall Down) thì phát chuông cảnh báo
 
 **Data:**
