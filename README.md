@@ -1,7 +1,7 @@
 # Pose_recognition
 **Detect anh recognize pose**
 
-- Nhận diện hành động: 
+**Nhận diện hành động:**
 + Standing
 + Stand up
 + Sitting
@@ -9,7 +9,7 @@
 + Lying Down
 + Walking
 + Fall Down
-- Nếu ngã (Fall Down) thì phát chuông cảnh báo
+Nếu ngã (Fall Down) thì phát chuông cảnh báo
 
 **Data:**
 https://www.kaggle.com/datasets/ngoduy/dataset-video-for-human-action-recognition
