@@ -19,6 +19,7 @@ https://www.kaggle.com/datasets/ngoduy/dataset-video-for-human-action-recognitio
 
 
 **Create data:**
+
 .data/create_dataset_1.py : Từ video, gán nhãn thủ công 0-7 cho mỗi frame trong mỗi video
 
 .data/create_dataset_2.py : Sử dụng yolov7_pose để tìm ra những keypoints tương ứng với label đã gán
