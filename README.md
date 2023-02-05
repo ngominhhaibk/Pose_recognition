@@ -28,17 +28,17 @@ Link dataset: https://www.kaggle.com/datasets/ngoduy/dataset-video-for-human-act
 
 
 
-**Install:**
+## Install:
 ```
 pip install -r requirements.txt
 ```
 
-**Train:**
+## Train:
 ```
 python train.py
 ```
 
-**Pose recognition:**
+## Pose recognition:
 ```
 python main.py
 ```
